@@ -13,5 +13,5 @@ if(height <= 4.10 && weight >= 90 && weight <= 115){
 else if(height <= 4.11 && weight >= 94 && weight <= 119){
     console.log("Normal");
 }else if(height <= 4.11 && weight >= 120 && weight <= 143){
-    console.log("OverWeight");
+    console.log("OverWeights");
 }
